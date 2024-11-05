@@ -15,7 +15,7 @@
         </div>
         <div class="relative h-[300px] rounded-lg overflow-hidden">
           <img
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/photo_2024-11-05_13-49-35-K0XFTFRMUtiEtgwljUiebEBDXgAsUL.jpg"
+            src="../assets/img/1.gif"
             alt="Cosmic Runner"
             class="object-cover w-full h-full rounded-lg"
           />
