@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-gradient-cosmic {
+  background-image: linear-gradient(to bottom, #1a002a, #4a0040);
+}
